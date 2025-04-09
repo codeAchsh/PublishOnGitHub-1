@@ -1,3 +1,0 @@
-[submodule "backup-repo"]
-    path = backup-repo
-    url = https://github.com/codeAchsh/PublishOnGitHub-1.git
